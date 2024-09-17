@@ -15,8 +15,8 @@ dependencies:
     specifier: ^4.2.0
     version: 4.2.0(react@18.3.1)
   '@tremor/react':
-    specifier: ^3.17.4
-    version: 3.17.4(react-dom@18.3.1)(react@18.3.1)(tailwindcss@3.4.10)
+    specifier: ^3.18.2
+    version: 3.18.2(react-dom@18.3.1)(react@18.3.1)(tailwindcss@3.4.10)
   next:
     specifier: 14.2.6
     version: 14.2.6(react-dom@18.3.1)(react@18.3.1)
@@ -493,8 +493,8 @@ packages:
     resolution: {integrity: sha512-nQXJnavN0D5PcKW2XL+w05aO/bxnuBq0+p3X+RG+R+lTHluNSWp5ePNbz0wIfg7U4HPrX/LBE9llMOvS3/6Cuw==}
     dev: false
 
-  /@tremor/react@3.17.4(react-dom@18.3.1)(react@18.3.1)(tailwindcss@3.4.10):
-    resolution: {integrity: sha512-teItTLbZglXJwakW8XYtRfIXZvp1Y6HKsaD9MC8cJqXG3vf1n6D9aPz3OKyWmDkBYE1Yjo/PTmEHKQIwN+2suQ==}
+  /@tremor/react@3.18.2(react-dom@18.3.1)(react@18.3.1)(tailwindcss@3.4.10):
+    resolution: {integrity: sha512-TKwqPLpfNL3ipro99XO4H0H3jqL89LjCtjS+x6FYiSZ3Di/tVRioiq7rqBilaPBDLRSsEoGTTJkGAhMKAvsY+Q==}
     peerDependencies:
       react: ^18.0.0
       react-dom: '>=16.6.0'
